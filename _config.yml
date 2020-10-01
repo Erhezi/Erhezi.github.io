@@ -1,10 +1,10 @@
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/erhezi.jpg'
 bkimage: '/images/bk1.jpg'
 # google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
-title: Umm ... Let's see what I can do with this
+title: Hello, Erhezi ~
 description: Learning sometimes may take a while
 
 
@@ -14,7 +14,7 @@ typing_text: I am typing ... how about you?
 author:
   name: Erhezi
   github_username: erhezi
-  linkedin_username: exampleUser
+  linkedin_username: danli-dl
   instagram_username: a7ure
   email: dli36@syr.edu
 
