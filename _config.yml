@@ -1,7 +1,7 @@
 baseurl: ''
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
-google_analytics: UA-XXXXXX-X
+# google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 title: Umm ... Let's see what I can do with this
@@ -11,10 +11,12 @@ description: Learning sometimes may take a while
 typing_text: I am typing ... how about you?
 
 # show the social network tabs
-github_username: erhezi
-linkedin_username: exampleUser
-instagram_username: a7ure
-email: dli36@syr.edu
+author:
+  name: Erhezi
+  github_username: erhezi
+  linkedin_username: exampleUser
+  instagram_username: a7ure
+  email: dli36@syr.edu
 
 # aboutme module
 show_aboutme_card: true
