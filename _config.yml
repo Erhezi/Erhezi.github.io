@@ -5,13 +5,20 @@ description: Learning sometimes may take a while
 
 typing_text: I am typing ... how about you?
 
+# show the social network tabs
 github_username: erhezi
 linkedin_username: exampleUser
 instagram_username: a7ure
 
+# aboutme module
 show_aboutme_card: true
 about_me_title: About Me
 about_me_description: Former Epigenetic biologist, now to ge determined.
 
+# timeline module
 show_timeline_card: true
 timeline_title: Time Capsule
+
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md']
