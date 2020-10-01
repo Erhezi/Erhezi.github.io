@@ -17,8 +17,11 @@ robots: noindex
         </div>
         <div class="timeline-panel">
           <div class="timeline-heading">
-            <h5><img src="{{ project.img | prepend: site.baseurl }}", style="float:left;width:30px;height:30px;">
-            <span>&#8647;</span> demo  |  repo <span>&#8650;</span>
+            <h5>
+              <a href="https://{{ project.gh_user }}.github.io/{{ project.repo }}" target="_blank">
+              <img src="{{ project.img | prepend: site.baseurl }}", style="float:left;width:30px;height:30px;"> 
+              </a>
+              &nbsp;<span>&#8647;</span> demo  |  repo <span>&#8650;</span>
             </h5>
             <h4><a href="https://github.com/{{ project.gh_user }}/{{ project.repo }}" target="_blank">{{ project.name }}</a></h4>
           </div>
