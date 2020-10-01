@@ -1,3 +1,4 @@
+<script src="{{ "/js/app.js" | prepend: site.baseurl }}"></script>
 <span class="mobile btn-mobile-menu">
   <i class="icon icon-list btn-mobile-menu__icon"></i>
   <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
@@ -11,6 +12,14 @@
         <a href="{{ site.baseurl }}/" title="click to fold back">
           <img src="{{ site.baseurl }}{{ site.profilepic }}" class="user-image" alt="My Profile Photo">
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+          
+          <h1>
+            <span id="txt-rotate" data-period="2000"
+              data-rotate='["{{site.typing_text}}", "scroll down for more."]'
+            >
+            </span>
+          </h1>
+
         </a>
         <hr class="panel-cover__divider">
         <p class="panel-cover__description"> Science, Art, Data, Love, Coffee, and Bubble Tea<i class="fas fa-cloud"></i>.</p>
@@ -80,3 +89,5 @@
     <div class="panel-cover--overlay"></div>
   </div>
 </header>
+
+<script src="{{ "/js/app.js" | prepend: site.baseurl }}"></script>
