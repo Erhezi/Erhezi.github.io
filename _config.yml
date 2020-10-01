@@ -1,3 +1,17 @@
 theme: jekyll-theme-minimal
 title: Umm ... Let's see what I can do with this
 description: Learning sometimes may take a while
+
+
+typing_text: I am typing ... how about you?
+
+github_username: erhezi
+linkedin_username: exampleUser
+instagram_username: a7ure
+
+show_aboutme_card: true
+about_me_title: About Me
+about_me_description: Former Epigenetic biologist, now to ge determined.
+
+show_timeline_card: true
+timeline_title: Time Capsule
