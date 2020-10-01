@@ -12,7 +12,9 @@ robots: noindex
       <li class="timeline-inverted">
         <div class="timeline-image">
           <img class="img-me" src="{{ project.img | prepend: site.baseurl }}" alt="">
-          <a href="https://github.com/{{ project.gh_user }}/{{ project.repo }}" target="_blank">{{ project.img }}</a>
+          <a href="https://{{ project.gh_user }}.github.io/{{ project.repo }}" target="_blank">
+          <img src="{{ project.img | prepend: site.baseurl }}" alt="HTML tutorial" style="width:42px;height:42px;">
+          </a>
         </div>
         <div class="timeline-panel">
           <div class="timeline-heading">
