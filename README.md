@@ -1,7 +1,5 @@
-## Under Construction
+## welcome to my github.io
 
-> I am a block
->> block
->>> block
->>>> block
->>>>> block ...
+The skeleton the site comes from: http://jekyllthemes.org/themes/Uno-Timeline/
+
+Well, learning something new is always fun.
