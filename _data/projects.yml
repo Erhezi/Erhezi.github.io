@@ -6,20 +6,26 @@
   img: https://media.giphy.com/media/3oKIP9owMsgGQy0b2U/giphy.gif
   desc: upcoming ... An eye blink detection system 
   
-- name: MoA prediction
+- name: MoA Prediction
   gh_user: erhezi
   repo: MoA
   img: https://media.giphy.com/media/1XgIXQEzBu6ZWappVu/giphy.gif
-  desc: upcoming ..
+  desc: upcoming .. Make prediction on drugs' MoA (Mechanisms of Action)
+  
+- name: Sentiment Analysis on US Airlines using Tweets
+  gh_user: axyst
+  repo: 600-Project
+  img: https://media.giphy.com/media/9Dvjn0wRJwavNemQBS/giphy.gif
+  desc: Which is your favoriate airline?
 
 - name: Wine Flavor Wheel
   gh_user: erhezi
   repo: wines-flavors
   img: https://media.giphy.com/media/QugK6vhpUvdbTiYcCs/giphy.gif
-  desc: Use tasting notes to build flavor wheels for wines.
+  desc: Use tasting notes to build flavor wheels for wines
 
 - name: Games
   gh_user: erhezi
   repo: games
   img: https://media.giphy.com/media/26ybwyb5dKBiKsZJC/giphy.gif
-  desc: games are always good
+  desc: Stroop's Effect with Pygame
