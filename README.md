@@ -8,4 +8,5 @@ Well, learning something new is always fun.
 
 Now you can find me on http://erhezi.github.io
 
-- *Oct 1, 2020* front page established, will add projects' contents later (hopefully by the end of October) 
+- *Oct 1, 2020* 
+front page established, will add projects' contents later (hopefully by the end of October) 
