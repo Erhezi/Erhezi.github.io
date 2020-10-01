@@ -11,12 +11,6 @@
   repo: MoA
   img: https://media.giphy.com/media/1XgIXQEzBu6ZWappVu/giphy.gif
   desc: upcoming .. Make prediction on drugs' MoA (Mechanisms of Action)
-  
-- name: Sentiment Analysis on US Airlines using Tweets
-  gh_user: axyst
-  repo: 600-Project
-  img: https://media.giphy.com/media/9Dvjn0wRJwavNemQBS/giphy.gif
-  desc: Which is your favoriate airline?
 
 - name: Wine Flavor Wheel
   gh_user: erhezi
