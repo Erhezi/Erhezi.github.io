@@ -11,6 +11,14 @@
         <a href="{{ site.baseurl }}/" title="click to fold back">
           <img src="{{ site.baseurl }}{{ site.profilepic }}" class="user-image" alt="My Profile Photo">
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+          
+          <h3 class="panel-cover__subtitle panel-subtitle">
+            <span id="txt-rotate" data-period="3000"
+              data-rotate='["{{site.typing_text}}", "Click on the Projects tab for more ..."]'
+            >
+            </span>
+          </h3>
+
         </a>
         <hr class="panel-cover__divider">
         <p class="panel-cover__description"> Science, Art, Data, Love, Coffee, and Bubble Tea<i class="fas fa-cloud"></i>.</p>
@@ -80,3 +88,5 @@
     <div class="panel-cover--overlay"></div>
   </div>
 </header>
+
+<script src="{{ "/js/app.js" | prepend: site.baseurl }}"></script>

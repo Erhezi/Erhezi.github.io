@@ -1197,10 +1197,10 @@ hr {
 
 .panel-subtitle {
 	font-family: "Roboto Slab", serif;
-	font-size: 1.2em;
-	font-weight: lighter;
-	letter-spacing: 3px;
-	color: #cccccc;
+	font-size: 1.1em;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #ddebc0;
 	-webkit-font-smoothing: antialiased; }
 
 .panel-cover {
@@ -1221,9 +1221,9 @@ hr {
 	display: block;
 	position: absolute;
 	z-index: 0;
-	top: 0;
+	top: auto;
 	right: 0;
-	bottom: 0;
+	bottom: auto;
 	left: 0;
 	background-color: rgba(68, 68, 68, 0.6);
 	background-image: -webkit-linear-gradient(-410deg, rgba(68, 68, 68, 0.6) 80%, rgba(0, 0, 0, 0.9));

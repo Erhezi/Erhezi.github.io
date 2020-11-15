@@ -5,10 +5,10 @@ bkimage: '/images/clover.gif'
 font_awesome: 'XXXXXXXXXX.js'
 
 title: ~Hello, Erhezi~
-description: Learning sometimes may take a while
+# description: Learning sometimes may take a while
 
 
-typing_text: I am typing ... how about you?
+typing_text: Former epigenetic biologist, now to be determined.
 
 # show the social network tabs
 author:
@@ -17,15 +17,6 @@ author:
   linkedin_username: danli-dl
   instagram_username: a7ure
   email: dli36@syr.edu
-
-# aboutme module
-show_aboutme_card: true
-about_me_title: About Me
-about_me_description: Former Epigenetic biologist, now to ge determined.
-
-# timeline module
-show_timeline_card: true
-timeline_title: Time Capsule
 
 
 #plugins: ['jekyll-paginate']
